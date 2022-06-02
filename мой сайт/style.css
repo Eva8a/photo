@@ -4,9 +4,9 @@ body {
   font-family: "Montserrat", "Helvetica", "Arial", sans-serif;
   font-size: 16px;
   line-height: 32px;
-  color: #beb69e;
-  background-color: #f2f4f6;
-  background-image: url("img/photography-1850469_1920.jpg");
+  color: #ffffff;
+  background-color: #b9ddad;
+  background-image: url("img/pexels-photo-1264210.webp");
   background-repeat: no-repeat;
   background-position: top center;
 }
@@ -30,7 +30,7 @@ body {
 
 .page-header a {
   margin-left: 56px;
-  color: #288be6;
+  color: #3c4636;
   text-decoration: none;
   background-repeat: no-repeat;
   background-position: left;
@@ -38,7 +38,7 @@ body {
 
 .header-email {
   padding-left: 30px;
-  background-image: url("img/icon-email-header.svg");
+  background-image: url("img/pexels-photo-821749.webp");
 }
 
 .header-phone {
@@ -124,14 +124,14 @@ body {
   height: 14px;
   font-size: 0;
   background-color: #ffffff;
-  border: 1px solid #86c3fa;
+  border: 1px solid #a2d3a6;
   border-radius: 8px;
 }
 
 .level div {
   margin: 1px;
   height: 12px;
-  background-color: #288be6;
+  background-color: #8ccea2;
   border-radius: 6px;
 }
 
@@ -165,13 +165,13 @@ body {
   text-decoration: none;
   text-transform: uppercase;
   border-radius: 4px;
-  background-color: #288be6;
+  background-color: #ced391;
   color: #ffffff;
 }
 
 .page-footer {
   padding: 40px 0;
-  background-color: #00417d;
+  background-color: #283a29;
   color: #ffffff;
 }
 
@@ -191,4 +191,8 @@ body {
 .footer-phone {
   padding-left: 25px;
   background-image: url("img/icon-phone-footer.svg");
+}
+
+.text-color {
+  color: #9e9465;
 }
